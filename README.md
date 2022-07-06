@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="200"/>
 </div>
 <div id="badges" align="center">
-  <a href="www.linkedin.com/in/dominik-piechota97">
+  <a href="https://www.linkedin.com/in/dominik-piechota97/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/>
   </a>
   <h2 align="center">
@@ -21,7 +21,7 @@ with use of libraries like Pandas, collections, Numpy, Matplotlib etc.
 
 - ⚡: During my free time, I solve exercises on web: [![Badges](https://img.shields.io/badge/Dominik-exercism-informational?style=plastic&logo=appveyor)](https://exercism.org/profiles/Dominik-Piechota)
 
-- 📬: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Dominik-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/dominik-piechota97)
+- 📬: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Dominik-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dominik-piechota97/)
 
 ---
 
