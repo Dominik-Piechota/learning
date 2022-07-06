@@ -35,7 +35,7 @@ with use of libraries like Pandas, collections, Numpy, Matplotlib etc.
 
 ---
 
-### 🗒️ Projects' description :
+### 📑 Projects' description :
 1. "Genetyka":
 Program that functions and operations on DNA and RNA. At the beginning, program needs a file containing sequence, it can be in .txt or FASTA format. Then, it shows operations, that can be done:  
    - Base DNA cleaning
