@@ -14,7 +14,7 @@
 ---
 
 ### :man_technologist: About me :
-- 👨‍🎓:I graduated Biotechnology at University of Technology in Lodz. For half a year I have been learning programming in Python,
+- 👨‍🎓: I graduated Biotechnology at University of Technology in Lodz. For half a year I have been learning programming in Python,
 with use of libraries like Pandas, collections, Numpy, Matplotlib etc. 
 
 - 👨💻: I learn on my own relying on free courses, official documentations and some books like "Python for Programmers". Basically,  in case of learning by practise, I create programs and scripts, part of them can be checked on repository.
@@ -32,3 +32,27 @@ with use of libraries like Pandas, collections, Numpy, Matplotlib etc.
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="NumPy" alt="NumPy" width="60" height="60"/>
 </div>
+
+---
+
+### 🗒️ Projects' description :
+1. "Genetyka":
+Program that functions and operations on DNA and RNA. At the beginning, program needs a file containing sequence, it can be in .txt or FASTA format. Then, it shows operations, that can be done:  
+   - Base DNA cleaning
+   - A, T, G, C counting (with optional %GC)
+   - Obtaining RNA after transcription process of DNA sequence which was provided
+  or obtaining a strand complementary to the inserted one.
+   - Get Amino-acids sequence based on DNA 
+   - Check for the specific pattern in sequence.
+   - Split sequences based on pattern occurrence
+Whole analysis can be finished with writing new sequence to new file.
+
+2. "Project_1":
+This is the part of data analysis. It starts with opening the file(csv). Then I did some major analysis, including statistical informations, filtering over the columns and values and creating graphs: density plots, histograms, pie plots etc. based on it. The libraries used in project: pandas, matplotlib, seaborn.
+
+3. "String_calculator": 
+Program providing basic calculations, but based not on simply numbers, but on strings, given by user. It was created for practising regex library, which was used in it. 
+
+4. "Project_2": 
+Data analysis of sales in 2019 provided in free databases. The libraries I used for data analysis: pandas, numpy, matplotlib.
+I checked age of customers, items that were sold, revenue and corelations between values in columns.
