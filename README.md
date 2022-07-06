@@ -48,11 +48,11 @@ Program that functions and operations on DNA and RNA. At the beginning, program 
 Whole analysis can be finished with writing new sequence to new file.
 
 2. "Project_1":
-This is the part of data analysis. It starts with opening the file(csv). Then I did some major analysis, including statistical informations, filtering over the columns and values and creating graphs: density plots, histograms, pie plots etc. based on it. The libraries used in project: pandas, matplotlib, seaborn.
+This is the part of data analysis. It starts with opening the file(csv). Whole analysis are done after converting file to DataFrame with pandas. Then I did some major analysis, delivering informations, filtering over the columns and values and creating graphs: density plots, histograms, pie plots etc. based on it. The libraries used in project: pandas, matplotlib, seaborn.
 
 3. "String_calculator": 
 Program providing basic calculations, but based not on simply numbers, but on strings, given by user. It was created for practising regex library, which was used in it. 
 
 4. "Project_2": 
-Data analysis of sales in 2019 provided in free databases. The libraries I used for data analysis: pandas, numpy, matplotlib.
-I checked age of customers, items that were sold, revenue and corelations between values in columns.
+Data analysis of sales in 2019 provided in free databases. The libraries I used for data analysis: pandas, numpy, matplotlib. Whole analysis are done after converting file to DataFrame with pandas.
+I checked multiple values like: age of customers, items that were sold, revenue and corelations between values in columns.
