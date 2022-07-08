@@ -19,7 +19,7 @@ with use of libraries like Pandas, collections, Numpy, Matplotlib etc.
 
 - 👨💻: I learn on my own relying on free courses, official documentations and some books like "Python for Programmers". Basically,  as for practical use of my knowledge, I create programs and scripts, part of them can be checked on repository.
 
-- ⚡: During my free time, I solve exercises on web: [![Badges](https://img.shields.io/badge/Dominik-exercism-informational?style=plastic&logo=appveyor)](https://exercism.org/profiles/Dominik-Piechota)
+- ⚡: During my free time, I pracice by doin exercises on web: [![Badges](https://img.shields.io/badge/Dominik-exercism-informational?style=plastic&logo=appveyor)](https://exercism.org/profiles/Dominik-Piechota)
 
 - 📬: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Dominik-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dominik-piechota97/)
 
@@ -37,7 +37,7 @@ with use of libraries like Pandas, collections, Numpy, Matplotlib etc.
 
 ### 📑 Projects' description :
 1. "Genetyka":
-Program that functions and operations on DNA and RNA. At the beginning, program needs a file containing sequence, it can be in .txt or FASTA format. Then, it shows operations, that can be done:  
+Program that provides the ability to operate and manipulate on DNA and RNA. At the beginning, program needs a file containing sequence, it can be in .txt or FASTA format. Then, it shows operations, that can be done:  
    - Base DNA cleaning
    - A, T, G, C counting (with optional %GC)
    - Obtaining RNA after transcription process of DNA sequence which was provided
