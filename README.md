@@ -37,15 +37,15 @@ with use of libraries like Pandas, collections, Numpy, Matplotlib etc.
 
 ### 📑 Projects' description :
 1. "Genetyka":
-Program that provides the ability to operate and manipulate on DNA and RNA. At the beginning, program needs a file containing sequence, it can be in .txt or FASTA format. Then, it shows operations, that can be done:  
+Program that provides the ability to operate and manipulate on DNA and RNA. In the beginning, program needs a file containing sequence, it can be in .txt or FASTA format. Then, it displays operations, that can be conducted:
    - Base DNA cleaning
    - A, T, G, C counting (with optional %GC)
    - Obtaining RNA after transcription process of DNA sequence which was provided
-  or obtaining a strand complementary to the inserted one.
+  or obtaining a strand complementary to the inserted one
    - Get Amino-acids sequence based on DNA 
-   - Check for the specific pattern in sequence.
-   - Split sequences based on pattern occurrence
-Whole analysis can be finished with writing new sequence to new file.
+   - Checking for the specific pattern in sequence
+   - Spliting sequences based on pattern occurrence
+The entire analysis can be finished with writing modified sequence to new file.
 
 2. "Project_1":
 This is the part of data analysis. It starts with opening the file(csv). Whole analysis are done after converting file to DataFrame with pandas. Then I did some major analysis, delivering informations, filtering over the columns and values and creating graphs: density plots, histograms, pie plots etc. based on it. The libraries used in project: pandas, matplotlib, seaborn.
