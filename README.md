@@ -17,7 +17,7 @@
 - 👨‍🎓: I graduated Biotechnology at University of Technology in Lodz. For half a year I have been learning programming in Python,
 with use of libraries like Pandas, collections, Numpy, Matplotlib etc. 
 
-- 👨💻: I learn on my own relying on free courses, official documentations and some books like "Python for Programmers". Basically,  in case of learning by practise, I create programs and scripts, part of them can be checked on repository.
+- 👨💻: I learn on my own relying on free courses, official documentations and some books like "Python for Programmers". Basically,  in case of learning by practice, I create programs and scripts, part of them can be checked on repository.
 
 - ⚡: During my free time, I solve exercises on web: [![Badges](https://img.shields.io/badge/Dominik-exercism-informational?style=plastic&logo=appveyor)](https://exercism.org/profiles/Dominik-Piechota)
 
